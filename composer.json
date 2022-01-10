@@ -1,0 +1,8 @@
+{
+    "name": "rhuancampos/laravel-pt-br",
+    "description": "Pack of translation pt-br of laravel",
+    "require": {
+        "php": ">=7.4",
+        "another-vendor/package": "1.*"
+    }
+}
