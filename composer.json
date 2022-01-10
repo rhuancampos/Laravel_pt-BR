@@ -1,8 +1,9 @@
 {
     "name": "rhuancampos/laravel-pt-br",
     "description": "Pack of translation pt-br of laravel",
+    "keywords": ["framework", "laravel"],
     "type": "library",
-    "license": "GNU GENERAL PUBLIC LICENSE",
+    "license": "MIT",
     "authors": [
         {
             "name": "Rhuan Campos",
